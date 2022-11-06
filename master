@@ -1,5 +1,5 @@
 #asm
-   .equ __lcd_port=0x18
+   .equ __lcd_port=0x17
 #endasm
 // инифиализируем порт  к которому подключен LCD дисплей
 #include <lcd.h>     
